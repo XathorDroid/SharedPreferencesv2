@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences_v2</string>
+
+    <string name="text1">Elige color de texto</string>
+    <string name="azul">Azul</string>
+    <string name="rojo">Rojo</string>
+    <string name="defaultColor">Por defecto</string>
+    <string name="text2">Texto cambiante...</string>
+    <string name="btnSave">Save</string>
+</resources>
